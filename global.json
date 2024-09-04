@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.2/src/parser/GlobalConfigSchema.json",
+    "configsList": [
+        "Upset-Alttext-User-Survey"
+    ],
+    "configs": {
+        "Upset-Alttext-User-Survey": {
+            "path": "Upset-Alttext-User-Survey/config.json"
+        }
+    }
+}
